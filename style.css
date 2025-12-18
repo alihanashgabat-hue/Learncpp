@@ -1,0 +1,28 @@
+
+
+h1 {
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+   
+}
+
+
+p {
+    color:black  ;
+    font-size: 21px;
+}
+.text{
+    color:blue ;
+    font-size:21px;
+}
+img {
+    width: 300px;
+    height: 250px;
+}
+.code{
+    color: coral;
+
+}
+
+
